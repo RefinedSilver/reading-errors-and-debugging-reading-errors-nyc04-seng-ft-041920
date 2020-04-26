@@ -1,3 +1,3 @@
-greeting = "hello world"
-puts greeting
+hello_world = "hello world"
+
 hello_world
